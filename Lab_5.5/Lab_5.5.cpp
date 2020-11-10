@@ -6,7 +6,7 @@ int B(int b, int p);
 
 int main()
 {
-	int b, p, m, mod, x, y;
+	int b, p, m, mod;
 
 	cout << "b = "; cin >> b;
 	cout << "p = "; cin >> p;
